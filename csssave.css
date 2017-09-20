@@ -1,0 +1,23 @@
+body{
+	background-color: green;
+}
+
+#enter{
+	font-size: 30px;
+	color: white;
+	font-family: "impact" ;
+}
+
+#challenge{
+	position: center;
+}
+
+#H{
+	color: white;
+	font-family: "impact";
+	font-size: 20px;
+}
+
+#table{
+	width:70%;
+}
